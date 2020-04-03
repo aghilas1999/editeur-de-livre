@@ -36,7 +36,7 @@ public class Ia extends JFrame{
 
     //fenetre setting
     this.setTitle("Editeur de livres");
-    this.setSize(555, 555);
+    this.setSize(600, 600);
     this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     this.setLocationRelativeTo(null);
     this.setLayout(new BorderLayout());
